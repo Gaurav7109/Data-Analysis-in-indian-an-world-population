@@ -24,8 +24,12 @@ changing the column names for effective data exploration:
 `Growth Rate` changed to `growth_rate`,
 `Density (per kmÂ²)` changed to `pop_density`.
 
-step 2 : LOADING THE DATA
-Datasets is loaded in a SQL workbench.
+Step 2 : IMPORT THE DATA
+Datasets is imported into a SQL workbench.
+The datasets are retrieved from Kaggle. 
+The 'world_Population.csv' dataset comprises of information on world population data from different countries over the period of 1970 to 2022.
+The 'Dataset_Indian_Population.csv' dataset comprises of information on indian population data from different districts for the period of 2011.
+The 'Dataset_growth_sex-ratio_literacy.csv' dataset comprises of information on indian growth, sex-ratio & literacy from different district for the period of 2011.
 
 Step 3 : SUMMARIZING THE DATASET
 The questions in the question set file (someFile.txt) have been answered.
