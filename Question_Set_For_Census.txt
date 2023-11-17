@@ -1,0 +1,38 @@
+-- show all the tables in the database
+-- show the content of all the tables present in the database
+-- changing column names for exploring the data
+-- 01 Number of rows into our datasheets
+-- 02 All data for states Uttarakhand & Rajasthan from indian data and data for india from world data
+-- 03 Find the country, capital city and continent from the table
+-- 04 Find the number of countries
+-- 05 Find the number of distinct continents
+-- 06 Find the average population of each continent in 2022
+-- 07 Population of India AND world
+-- 08 Find the highest and lowest population among all countries in 2022
+-- 09 Find the countries with the highest and lowest population in 1970
+-- 10 Find the population of North America continent with a capital city called The Valley in the year 2022
+-- 11 Find the 10 most  populated countries in 2015 
+-- 12 Find the 10 least populated countries in 2015
+-- 13 Avg Growth Of India and world
+-- 14 avg growth of ALL states 
+-- 15 avg sex ratio of each state:
+-- 16 avg literacy rate of each state and return all states having avg literacy rate greater than 85
+-- 17 Top 3 states showing highest growth rate and top three countries having highest growth rate
+-- 18 5 states showing highest and Lowest sex ratio:
+-- 19 top and bottom 3 states in literacy state:
+-- 20 Both Top and Bottom States in single table with top 3 entries as top states and bottom 3 as bottom states in literacy:
+-- 21 Find all districts of States where state's name is starting with letter 'a' & 'b' and find all countries with capital where country name is starting with 'a' or 'b';
+-- 22 Find the countries whose total population is greater than the average population
+-- 23 Find the number of countries whose population is less than the highest population in 2022
+-- 24 Find the average population and area of the year 2020
+-- 25 Finding the most dense populated countries in 2022 means area < avg(Area) and population > avg(population)
+-- 26 Find the highest and minimum population growth rate
+--  27 Find the largest and smallest area
+-- 28 Find the country with the smallest area
+-- 29 Create a new field of area sizes. Return the country, continent, country code and area. Order them in descending order.
+-- 30 Find the rank and dense rank of countries population in the year 2015 
+-- 31 Total males and females in each states
+-- 32 Total litracy rate of each state
+-- 33 Total litracy rate of India
+-- 34 total_populatioin of India in previous census 
+-- 35 output top 3 district from each state with highest literacy rate.
