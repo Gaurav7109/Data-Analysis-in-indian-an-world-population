@@ -10,9 +10,9 @@
 This repository consists of the following :
 
 README.txt (this file)
-Dataset : "india-districts-census-2011.csv" , "india-districts-census-2011.csv", "india-districts-census-2011.csv"
-Question set file: someFile.txt
-Query File : someFile.txt
+Dataset : "Dataset_Indian_Population.csv" , "Dataset_growth_sex-ratio_literacy.csv" and "world_Population.csv"
+Question set file: Question_Set_For_Census.txt
+Query File : portfolio_census_india_world_queries.sql
 
 Step 1 : DATA CLEANING
 To keep names of states same in dataset and shapefile, following transformations were performed.
@@ -28,4 +28,4 @@ step 2 : LOADING THE DATA
 Datasets is loaded in a SQL workbench.
 
 Step 3 : SUMMARIZING THE DATASET
-The questions in the question set file ( someFile.txt) have been answered :
+The questions in the question set file (someFile.txt) have been answered.
