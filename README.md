@@ -17,12 +17,12 @@ Query File : someFile.txt
 Step 1 : DATA CLEANING
 To keep names of states same in dataset and shapefile, following transformations were performed.
 
-changing the column names for effective data exploration
-`World Population Percentage` changed to `world_population_percentage`
-`Area (kmÂ²)` changed to `area`
-`Country/Territory` changed to `country`
-`Growth Rate` changed to `growth_rate` double;
-`Density (per kmÂ²)` changed to `pop_density` double;
+changing the column names for effective data exploration: 
+`World Population Percentage` changed to `world_population_percentage`,
+`Area (kmÂ²)` changed to `area`,
+`Country/Territory` changed to `country`,
+`Growth Rate` changed to `growth_rate`,
+`Density (per kmÂ²)` changed to `pop_density`.
 
 step 2 : LOADING THE DATA
 Datasets is loaded in a SQL workbench.
