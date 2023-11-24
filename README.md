@@ -32,4 +32,4 @@ The 'Dataset_Indian_Population.csv' dataset comprises of information on indian p
 The 'Dataset_growth_sex-ratio_literacy.csv' dataset comprises of information on indian growth, sex-ratio & literacy from different district for the period of 2011.
 
 Step 3 : SUMMARIZING THE DATASET
-The questions in the question set file (someFile.txt) have been answered.
+The questions in the question set file (Question_Set_For_Census.txt) have been answered.
